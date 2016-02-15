@@ -1,0 +1,26 @@
+{
+  "name": "q-to-y",
+  "version": "1.0.0",
+  "description": "Even lower-effort x-to-y bot setup with help from qauth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Harrison-M/q-to-y.git"
+  },
+  "keywords": [
+    "bots",
+    "twitter"
+  ],
+  "author": "Harrison Massey",
+  "license": "ISC",
+  "dependencies": {
+    "qauth": "^0.1.1",
+    "x-to-y": "^1.0.15"
+  },
+  "engines": {
+      "node": ">=4.0.0"
+  }
+}
